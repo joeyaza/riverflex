@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="405px" height="373px" viewBox="0 0 405 373" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.06078747,167.753296 C-9.34738908,270.127981 65.3362068,361.53025 167.868334,371.925898 C270.393542,382.314639 268.577559,278.092222 372.348014,205.371037 C476.125386,132.656759 308.076053,11.5940833 205.547385,1.20188889 C199.13783,0.556046296 192.787079,0.238305556 186.481294,0.238305556 C91.9049021,0.245212963 10.8152102,71.7783241 1.06078747,167.753296" id="path-1"></path>
+        <linearGradient x1="61.3922465%" y1="96.3396623%" x2="39.0125131%" y2="0.356843324%" id="linearGradient-3">
+            <stop stop-color="#236099" offset="0%"></stop>
+            <stop stop-color="#60C8D8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-88.000000, -302.000000)">
+            <g id="Masthead" transform="translate(-73.000000, -63.000000)">
+                <g id="Group-7" transform="translate(97.000000, 365.000000)">
+                    <g id="Group-3" transform="translate(64.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M1.06078747,167.753296 C-9.34738908,270.127981 65.3362068,361.53025 167.868334,371.925898 C270.393542,382.314639 268.577559,278.092222 372.348014,205.371037 C476.125386,132.656759 308.076053,11.5940833 205.547385,1.20188889 C199.13783,0.556046296 192.787079,0.238305556 186.481294,0.238305556 C91.9049021,0.245212963 10.8152102,71.7783241 1.06078747,167.753296" id="Fill-1" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

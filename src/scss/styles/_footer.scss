@@ -1,0 +1,43 @@
+// Footer
+
+footer {
+	background: #1f1740;
+	*{color: white}
+	padding-top: 80px;
+	a{&:hover {
+		color: white;
+		font-weight: bold;
+	}}
+}
+
+#logo-footer {
+	padding-bottom: 50px;
+}
+
+#menu-legalmenu {
+	padding: 30px 0;
+	* {	display: inline-block;
+	    padding-left: 5px;
+    padding-right: 7px;
+font-size: 13px;}
+    a {
+    	text-decoration: underline;
+    }
+}
+
+.menu-item {
+
+	font-family: "sofia_pro_black";
+	padding-top: 5px;
+
+}
+
+.sub-menu {
+
+	.menu-item {
+
+		font-family: 'sofia_pro';
+
+	}
+
+}

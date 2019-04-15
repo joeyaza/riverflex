@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="189px" height="192px" viewBox="0 0 189 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="8.33880453%" y1="17.6231213%" x2="96.7381406%" y2="66.8399672%" id="linearGradient-1">
+            <stop stop-color="#FF8A5B" offset="0%"></stop>
+            <stop stop-color="#F4BD6D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.789955357">
+        <g id="Landing" transform="translate(-1146.000000, -116.000000)" fill="url(#linearGradient-1)">
+            <g id="Masthead" transform="translate(-129.000000, -63.000000)">
+                <g id="Group-7" transform="translate(1275.000000, 0.000000)">
+                    <g id="Group-3" transform="translate(0.000000, 179.000000)">
+                        <path d="M143.964,0.78 C139.42,0.806 134.545,1.887 129.363,4.196 C77.63,27.253 24.359,7.19 4.109,56.114 C-16.141,105.039 43.785,75.958 68.115,152.163 C92.442,228.369 161.029,178.375 181.279,129.45 C199.454,85.546 184.861,1.004 144.288,0.78 L143.964,0.78 Z" id="Fill-1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

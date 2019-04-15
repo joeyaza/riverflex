@@ -1,0 +1,161 @@
+@font-face {
+  font-family: 'sofia_pro';
+  src: url('../fonts/sofiapro-light-webfont.woff2') format('woff2'),
+    url('../fonts/sofiapro-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'sofia_pro_black';
+  src: url('../fonts/sofiapro-black-webfont.woff2') format('woff2'),
+    url('../fonts/sofiapro-black-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+	* {
+		 -webkit-font-smoothing: antialiased;
+  		-moz-osx-font-smoothing: grayscale;
+	}
+}
+
+a {
+	text-decoration: none;
+}
+
+span, p {
+	font-family: 'sofia_pro', Helvetica, Roboto, Arial, sans-serif;
+}
+
+p {
+	font-size: 22px;
+	line-height: 31px;
+	color: #6a7181;
+}
+
+span {
+	font-size: 24px;
+	color: #2e00df;
+}
+
+h1 {
+	color: white;
+	font-family: 'sofia_pro_black', Helvetica, Roboto, Arial, sans-serif;
+	font-size: 3rem;
+    line-height: 1.06;
+    z-index: 5;
+}
+h2 {
+	color: #1f1750;
+	font-size: 35px;
+	line-height: 1.22;
+	font-family: 'sofia_pro', Helvetica, Roboto, Arial, sans-serif;
+	&.bold {
+		font-family: 'sofia_pro_black', Helvetica, Roboto, Arial, sans-serif;
+	}
+}
+h3 {
+  font-family: 'sofia_pro', Helvetica, Roboto, Arial, sans-serif;
+  font-size: 35px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.23;
+  letter-spacing: normal;
+  color: #2ce4b5;
+}
+
+h4 {
+	color: white;
+	font-size: 25px;
+	line-height: 35px;
+	font-family: 'sofia_pro', Helvetica, Roboto, Arial, sans-serif;
+}
+
+quote {
+	color: #2e00df;
+	font-size: 22px;
+	line-height: 26px;
+	font-family: 'sofia_pro', Helvetica, Roboto, Arial, sans-serif;
+}
+
+.quote-span {
+	font-family: 'sofia_pro_black', Helvetica, Roboto, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 31px;
+	color: #2e00df;
+}
+
+button.primary {
+/*	width: 374px;
+  height: 38px;*/
+  border-radius: 19px;
+  border: solid 3px #2e00df;
+  color: #2e00df;
+  padding: 8px 40px;
+  width: 90%;
+  background: white;
+	  &:hover {
+	  	background: #2e00df;
+	  	color: white;
+	  }
+
+}
+
+button.secondary {
+		border-style: none;
+		width: 90%;
+	  border-radius: 19px;
+  	background-color: #ff8b5c;
+    color: white;
+  	padding: 10px 40px;
+	  	&:hover {
+		  	background: 	#ffd28c;
+		  	/*color: #ff8b5c;*/
+		  	/*opacity: 0.6;*/
+		  }
+
+}
+
+.thirdly {
+		border: solid 3px white;
+    border-radius: 19px;
+    background: transparent;
+    color: white;
+    padding: 10px 30px;
+        font-size: 25px;
+    &:hover {
+		  	background: white;
+		  	 color: #2e00df;
+		  }
+}
+
+ul, li {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+
+ /*medium*/
+@media (min-width: 768px) { 
+
+
+quote {
+	font-size: 35px;
+	line-height: 48px;
+}
+
+.quote-span {
+	font-size: 22px;
+	line-height: 31px;
+}
+h4 {
+	font-size: 30px;
+	line-height: 48px;
+}
+
+
+}
