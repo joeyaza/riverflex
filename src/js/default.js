@@ -11,15 +11,20 @@ $( "#subscribe" ).click((event) => {
         From : "info@riverflex.com",
         Subject : "Riverflex newsletter - please confirm your subscription",
         Body: `Hi,
-        \n
+        <br>
+		<br/>
         Thank you for subscribing to the Riverflex newsletter! To complete your subscription, please confirm by clicking on the link below.
-        \n
-        [url: http://eepurl.com/gnOenf]
-		\n
+        <br>
+		<br/>
+        http://eepurl.com/gnOenf
+		<br>
+		<br/>
 		If you received this email by mistake, simply delete it. You won’t be subscribed if you don’t click the confirmation link above.
-		\n
+		<br />
+		<br />
 		Thanks,
-		\n
+		<br>
+		<br/>
 		The Riverflex Team`
         }).then((message) => {
          	console.log(1, message);
